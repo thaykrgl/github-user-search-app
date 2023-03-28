@@ -33,10 +33,10 @@ Users should be able to:
 <img src="./images/desktop-dark.png" alt="">
 
 #### Mobile Light View
-<img src="./images/mobile-light.png" alt="">
+<img src="./images/mobile-light.png" alt="" style = "width: 375px; object-fit: cover; ">
 
 #### Mobile Dark View
-<img src="./images/mobile-dark.png" alt="">
+<img src="./images/mobile-dark.png" alt="" style = "width: 375px; object-fit: cover; ">
 
 ### Links
 
